@@ -1,0 +1,8 @@
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\MapForms\bin\Debug\MapForms.exe
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\MapForms\bin\Debug\MapForms.pdb
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\MapForms\obj\x86\Debug\MapForms.MapContainer.resources
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\MapForms\obj\x86\Debug\MapForms.Properties.Resources.resources
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\MapForms\obj\x86\Debug\MapForms.csproj.GenerateResource.Cache
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\MapForms\obj\x86\Debug\MapForms.exe
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\MapForms\obj\x86\Debug\MapForms.pdb
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\MapForms\bin\Debug\MapForms.exe.config

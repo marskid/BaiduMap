@@ -1,0 +1,4 @@
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\WebServer\bin\WebServer.dll
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\WebServer\bin\WebServer.pdb
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\WebServer\obj\Debug\WebServer.dll
+c:\users\melvin\documents\visual studio 2010\Projects\BaiduMap\WebServer\obj\Debug\WebServer.pdb

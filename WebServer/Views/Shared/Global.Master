@@ -1,0 +1,17 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/1.12.4/jquery.js"></script>
+    <asp:ContentPlaceHolder ID="ScriptHeader" runat="server" />
+    <asp:ContentPlaceHolder ID="StyleHeader" runat="server" />
+</head>
+<body>
+    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    <asp:ContentPlaceHolder ID="ScriptContent" runat="server" />
+</body>
+</html>

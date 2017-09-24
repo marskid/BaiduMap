@@ -1,0 +1,7 @@
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\WebService\bin\WebService.dll
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\WebService\bin\WebService.pdb
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\WebService\obj\Debug\WebService.dll
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\WebService\obj\Debug\WebService.pdb
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\WebService\bin\EntityDB.dll
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\WebService\bin\EntityDB.pdb

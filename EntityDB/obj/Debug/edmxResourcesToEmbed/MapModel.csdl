@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2006/04/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="MapModel" Alias="Self">
+  <EntityContainer Name="MapModelEntity">
+    <EntitySet Name="Devices" EntityType="MapModel.Device" />
+    <EntitySet Name="Cities" EntityType="MapModel.City" />
+  </EntityContainer>
+  <EntityType Name="Device">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" cg:SetterAccess="Public" />
+    <Property Type="String" Name="Name" Nullable="false" />
+    <Property Type="String" Name="Latitude" Nullable="false" />
+    <Property Type="String" Name="Longitude" Nullable="false" />
+  </EntityType>
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="Name" Nullable="false" />
+    <Property Type="String" Name="Code" Nullable="false" />
+  </EntityType>
+</Schema>

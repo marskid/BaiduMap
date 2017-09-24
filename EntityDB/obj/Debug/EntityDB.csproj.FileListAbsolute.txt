@@ -1,0 +1,5 @@
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\EntityDB\bin\Debug\EntityDB.dll.config
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\EntityDB\bin\Debug\EntityDB.dll
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\EntityDB\bin\Debug\EntityDB.pdb
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\EntityDB\obj\Debug\EntityDB.dll
+C:\Users\Melvin\documents\visual studio 2010\Projects\BaiduMap\EntityDB\obj\Debug\EntityDB.pdb
