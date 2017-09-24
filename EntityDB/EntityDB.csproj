@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config" />
+    <None Include="DeviceTestData.csv" />
     <None Include="Properties\DataSources\MapModelEntity.datasource" />
   </ItemGroup>
   <ItemGroup>
